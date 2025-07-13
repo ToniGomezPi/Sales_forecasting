@@ -18,7 +18,7 @@ m5-demand-prediction/
 ├── src/               # Scripts de limpieza, entrenamiento, predicción
 ├── README.md
 └── requirements.txt
-´´´
+```
 
 ## ⚙️ Tecnologías
 
