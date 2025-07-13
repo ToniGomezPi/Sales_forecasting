@@ -8,16 +8,17 @@ Predecir las ventas futuras por producto y tienda a partir de datos históricos 
 
 ## 📁 Estructura del Proyecto
 
+```txt
 m5-demand-prediction/
 ├── data/
-│ ├── raw/ # Datos originales del dataset M5
-│ └── processed/ # Datos listos para modelado
-├── notebooks/ # Análisis exploratorio, features, modelos
-├── models/ # Modelos entrenados (.pkl, .pt)
-├── src/ # Scripts de limpieza, entrenamiento, predicción
+│   ├── raw/           # Datos originales del dataset M5
+│   └── processed/     # Datos listos para modelado
+├── notebooks/         # Análisis exploratorio, features, modelos
+├── models/            # Modelos entrenados (.pkl, .pt)
+├── src/               # Scripts de limpieza, entrenamiento, predicción
 ├── README.md
 └── requirements.txt
-
+´´´
 
 ## ⚙️ Tecnologías
 
